@@ -1,0 +1,19 @@
+# Binarios
+*.o
+*.out
+*.exe
+*.bin
+
+# Temporales
+*~
+*.swp
+
+# Directorios de build
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# WSL
+*.log
